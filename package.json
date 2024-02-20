@@ -1,0 +1,30 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000a\u0000m\u0000a\u0000s\u0000t\u0000e\u0000-\u0000r\u0000e\u0000a\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutashukla/Namaste-react.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.1"
+  }
+}

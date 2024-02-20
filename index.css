@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid gray;
+    background-color: rgb(213, 213, 232);
+}
+
+.nav-item >ul {
+
+    display : flex;
+    list-style: none;
+
+}
+
+.nav-item >ul >li {
+        padding : 10px;
+
+}
+
+.resturnt-list{
+
+    display : flex;
+    flex-wrap : wrap;
+}
+
+.logo {
+   width : 100px;
+}
+
+.card{
+    width : 330px;
+    border: 1px solid gray;
+    padding : 10px;
+    margin : 10px;
+    text-align: center;
+
+}
+.card >img {
+    width : 100%;
+    height: 300px;
+}
+
